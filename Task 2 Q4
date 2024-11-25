@@ -1,0 +1,30 @@
+<!-- TASK 2: Add suitable semantic tags INCLUDING navigation to link Home, Q1, 2, 3 and 4 in each page -->
+<!-- You will have to create three questions of your own. Use the Q1.html template. -->
+
+<html>
+  <head>
+    <title>Capitals Quiz</title>
+  </head>
+  <body>
+  <nav>
+    <ol>
+    <li><a href="home.html"> Home Page </a></li>
+    <li><a href="Q1.html"> Question 1 </a></li>
+    <li><a href="Q2.html"> Question 2 </a></li>
+    <li><a href="Q3.html"> Question 3 </a></li>
+    <li><a href="Q4.html"> Question 4 </a></li>
+    </ol>
+  </nav>
+  <header>
+    <h1>Q. What is the capital of China?</h1>
+  </header>
+
+  <section>
+    <p>1. Chengdu</p>
+    <p>2. Nanjing</p>
+    <p>3. Beijing</p>
+    <p>4. Wuhan</p>
+  </section>
+
+  </body>
+</html>
