@@ -5,14 +5,31 @@
   <head>
     <title>Capitals Quiz</title>
   </head>
+
   <body>
+  <nav>
+    <ol>
+    <li><a href="home.html"> Home Page </a></li>
+    <li><a href="Q1.html"> Question 1 </a></li>
+    <li><a href="Q2.html"> Question 2 </a></li>
+    <li><a href="Q3.html"> Question 3 </a></li>
+    <li><a href="Q4.html"> Question 4 </a></li>
+    </ol>
+  </nav>
+
+  <header>
     <h1>Welcome to the Capitals Quiz!</h1>
+  </header>
+  <section>
     <p>Use the navigation bar to move between each of the four questions.</p>
+  </section>
+  <section>
     <p>How to take part in the quiz:</p>
     <ol>
       <li>Don't use the Internet</li>
       <li>Write your answers down on paper</li>
       <li>Hand these into your class teacher</li>
     </ol>
+  </section>
   </body>
 </html>
